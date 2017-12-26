@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Applications'
+let g:netrw_dirhist_2='/Applications/XAMPP'
+let g:netrw_dirhist_3='/Applications/XAMPP/xamppfiles'
+let g:netrw_dirhist_4='/Applications/XAMPP/xamppfiles/etc'
+let g:netrw_dirhist_5='/Applications/XAMPP/xamppfiles/etc/extra'
+let g:netrw_dirhist_6='/Users/scott/.Trash/adu'
+let g:netrw_dirhist_7='/Users/scott'
+let g:netrw_dirhist_8='/Users/scott/Desktop'
